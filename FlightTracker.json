@@ -1,0 +1,12 @@
+{
+ "ads": [
+    {
+      "Banner"                : "1",
+      "Interstitial"          : "1",
+      "Rewarded_interstitial" : "1",
+      "Rewarded"              : "1",
+      "Native_advanced"       : "1",
+      "App_open"              : "1",
+    }
+  ]
+}
