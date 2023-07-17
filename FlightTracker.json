@@ -1,12 +1,12 @@
 {
  "ads": [
     {
-      "Banner"                : "1",
-      "Interstitial"          : "1",
-      "Rewarded_interstitial" : "1",
-      "Rewarded"              : "1",
-      "Native_advanced"       : "1",
-      "App_open"              : "1",
+      "Banner"                : "ca-app-pub-3940256099942544/6300978111",
+      "Interstitial"          : "ca-app-pub-3940256099942544/1033173712",
+      "Rewarded_interstitial" : "ca-app-pub-3940256099942544/5354046379",
+      "Rewarded"              : "ca-app-pub-3940256099942544/5224354917",
+      "Native_advanced"       : "ca-app-pub-3940256099942544/2247696110",
+      "App_open"              : "ca-app-pub-3940256099942544/3419835294",
     }
   ]
 }
