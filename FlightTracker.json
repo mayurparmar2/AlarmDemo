@@ -3,7 +3,7 @@
     {
      "isEnable"               : true,
       "ad_platform"           : "AdMobAds",
-      "Counter"               : "3",
+      "Counter"               : 3,
       "App_id"                : "ca-app-pub-3940256099942544/3419835294",
       "Banner"                : "/6499/example/banner",
       "Interstitial"          : "/6499/example/interstitial",
