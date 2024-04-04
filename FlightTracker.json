@@ -1,6 +1,7 @@
 {
    "ads": {
       "status": true,
+      "counter": 3,
       "main_ads": "admob",
       "backup_ads": "facebook",
       "ads_unit_id": {
