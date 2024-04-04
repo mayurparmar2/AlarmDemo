@@ -2,7 +2,7 @@
    "ads": {
       "enable": true,
       "counter": 3,
-      "main_ads": "admob",
+      "main_ads": "unity",
       "backup_ads": "facebook",
       "ads_unit_id": {
         "admob": {
