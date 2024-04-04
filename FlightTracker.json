@@ -22,8 +22,8 @@
         "unity": {
           "game_id": "5331426",
           "banner_id": "banner",
-          "interstitial_id": "video",
-          "rewarded_id": "rewardedVideo"
+          "interstitial_id": "Interstitial1",
+          "rewarded_id": "Rewarded_Android"
         }
       }
     }
