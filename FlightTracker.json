@@ -8,8 +8,8 @@
         "admob": {
           "publisher_id": "pub-3940256099942544",
           "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-          "banner_id": "ca-app-pub-3940256099942544/6300978111",
-          "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+          "banner_id": "/6499/example/banner",
+          "interstitial_id": "/6499/example/interstitial",
           "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
           "native_id": "ca-app-pub-3940256099942544/2247696110"
         },
