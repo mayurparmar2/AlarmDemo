@@ -2,7 +2,7 @@
  "ads": [
     {
      "isEnable"               : true,
-      "ad_platform"           : "facebook",
+      "ad_platform"           : "unity",
       "Counter"               : 3,
       "App_id"                : "ca-app-pub-3940256099942544/3419835294",
       "Banner"                : "/6499/example/banner",
